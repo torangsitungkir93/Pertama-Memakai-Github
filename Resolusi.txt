@@ -3,4 +3,3 @@
 3.Menyimpan Project di Repository github
 4.Mengerjakan Project Besar tentang web dengan responsive dan menggunakan bootstrap
 5.Belajar membaut desain UI c++ menggunakan gotoxy
-6.ahgsdjhagsjdhgajsh dg ajshdgjash
