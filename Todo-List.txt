@@ -5,6 +5,7 @@ Rencana Pembelajaran yang akan dilakukan
       *ES6
       *Framework Javascript
           ^React JS
+          ^Vue.JS
 - Belajar OOP pada PHP
 - Belajar Konsep MVC pada PHP
 - Belajar singkat Codeigniter Framework
