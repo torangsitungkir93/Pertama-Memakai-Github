@@ -1,5 +1,11 @@
-1.Mulai tanggal 18 juni 2019,mulai belajar php javascript dan mysql
-2.Ditambah dengan mengerjakan project c++ di https://training.ia-toki.org
-3.Menyimpan Project di Repository github
-4.Mengerjakan Project Besar tentang web dengan responsive dan menggunakan bootstrap
-5.Belajar membaut desain UI c++ menggunakan gotoxy
+Belajar Dari awal cara menggunakan GitHub
+
+1.Belajar Pengertian Git dan GitHub 
+2.Bekerja dengan GitHub
+3.Branching
+4.Forking
+5.Bekerja dengan Git
+6.Git branch & merge
+7.Git Merge Conflict
+8.Git Remote
+9.Github Pages(Web Hosting dengan Github)
