@@ -4,6 +4,7 @@ Rencana Pembelajaran yang akan dilakukan
 - Belajar Javascipt + DOM
       *ES6
       *Framework Javascript
+- Struktur Data Dasar
 - Belajar OOP pada PHP
 - Belajar Konsep MVC pada PHP
 - Belajar singkat Codeigniter Framework
