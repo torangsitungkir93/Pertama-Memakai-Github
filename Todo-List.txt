@@ -1,6 +1,6 @@
           ---- TODO LIST -----
 
-Rencana Pembelajaran yang akan dilakukan
+Rencana Pembelajaran yang akan dilakukan Libur sem 3
 
 - Belajar cara penggunaan Git&GitHub
 - Belajar Javascipt + DOM
