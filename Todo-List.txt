@@ -1,3 +1,5 @@
+          ---- TODO LIST -----
+
 Rencana Pembelajaran yang akan dilakukan
 
 - Belajar cara penggunaan Git&GitHub
